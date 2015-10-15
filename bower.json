@@ -7,6 +7,6 @@
     "test"
   ],
   "dependencies": {
-    "rsvp": "latest"
+    "rsvp": "0.3.16"
   }
 }
